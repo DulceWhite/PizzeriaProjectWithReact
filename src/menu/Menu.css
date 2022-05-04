@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+.Menu {
+    background-color: rgb(248, 6, 6);
+    width: 700px;
+    margin: 80px auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 8px 8px 12px rgba(0, 0,0, .6);
+  }
+  
+  .Menu-title {
+   
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 5px;
+    font-size: 3em;
+  }
+  
+  .Menu h2 {
+    text-align: right;
+  }
+  
+  
